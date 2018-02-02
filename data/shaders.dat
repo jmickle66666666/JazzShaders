@@ -38,5 +38,10 @@
 		"name": "post_filter_Warmth",
 		"vertex": "post_filter_warmth.vert",
 		"fragment": "post_filter_warmth.frag"
+	},
+	{
+		"name": "post_filter_InverseWarmth",
+		"vertex": "post_filter_inversewarmth.vert",
+		"fragment": "post_filter_inversewarmth.frag"
 	}
 ]
