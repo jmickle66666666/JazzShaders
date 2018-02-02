@@ -1,0 +1,37 @@
+[
+	{
+		"name": "post_filter_Basic",
+		"vertex": "post_filter_basic.vert",
+		"fragment": "post_filter_basic.frag"
+	},
+	{
+		"name": "post_filter_ColorReduce",
+		"vertex": "post_filter_colorreduce.vert",
+		"fragment": "post_filter_colorreduce.frag"
+	},
+	{
+		"name": "post_filter_Noir",
+		"vertex": "post_filter_noir.vert",
+		"fragment": "post_filter_noir.frag"
+	},
+	{
+		"name": "post_filter_Aberration",
+		"vertex": "post_filter_aberration.vert",
+		"fragment": "post_filter_aberration.frag"
+	},
+	{
+		"name": "post_filter_Vignette",
+		"vertex": "post_filter_vignette.vert",
+		"fragment": "post_filter_vignette.frag"
+	},
+	{
+		"name": "post_filter_Outline",
+		"vertex": "post_filter_outline.vert",
+		"fragment": "post_filter_outline.frag"
+	},
+	{
+		"name": "post_filter_Gameboy",
+		"vertex": "post_filter_gameboy.vert",
+		"fragment": "post_filter_gameboy.frag"
+	}
+]
