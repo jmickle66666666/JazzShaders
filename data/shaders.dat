@@ -33,5 +33,10 @@
 		"name": "post_filter_Gameboy",
 		"vertex": "post_filter_gameboy.vert",
 		"fragment": "post_filter_gameboy.frag"
+	},
+	{
+		"name": "post_filter_Warmth",
+		"vertex": "post_filter_warmth.vert",
+		"fragment": "post_filter_warmth.frag"
 	}
 ]
